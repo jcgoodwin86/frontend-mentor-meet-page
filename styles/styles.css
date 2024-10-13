@@ -1,0 +1,13 @@
+@import "./variables.css";
+@import "./reset.css";
+@import "./global.css";
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
+
+@font-face {
+  font-family: "Red Hat Display";
+  src: url(../assets/fonts/Red-Hat-Display/RedHatDisplay-VariableFont_wght.ttf);
+  font-display: swap;
+  font-weight: 300 900;
+}
